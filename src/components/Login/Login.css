@@ -48,7 +48,9 @@
   padding: 20px;
   margin-left: auto;
   margin-right: auto;
-  width: -webkit-fill-available;
+  left: 0;
+  right: 0;
+  /* width: -webkit-fill-available; */
 }
 
 .loginScreen__body>h1 {
